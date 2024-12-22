@@ -5,13 +5,13 @@
 ---
 
 ## Ziel / Goal  <p>
-**DE:**  Ein geplantes Haus mit Frachtcontainern als Basis (8x 20 Fuss) mit Wintergarten und Pool, sowie Smart-Home System und KI verwaltung.<br>
-**EN:**  A planned house with shippuingcontainers as bas (8c 20feet) with wintergarden and pool, as well as smart-home system with ai control.<p>
+**DE:**  Ein geplantes Haus mit Frachtcontainern als Basis (8x 20 Fuss und 2x 10 Fuss) mit Wintergarten und Pool, sowie Smart-Home System und KI verwaltung.<br>
+**EN:**  A planned house with shippuingcontainers as bas (8c 20feet and 2x 10feet) with wintergarden and pool, as well as smart-home system with ai control.<p>
 ---
 
 ## Technologien / Technologies  <p>
 - **Python**  <br>
-- **Azure AI**<br
+- **Azure AI**<br>
 - **Shipping Container** <br>
 - **Solar Panels** <br>
 - **Windcollectors** <br>
