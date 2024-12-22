@@ -1,67 +1,65 @@
-# container-House-v1
+# container-House-v1<p>
 
-**DE:** Ein Projekt zum planen eines Hauses auf Basis von Frachtcontainern, mit Wintergarten und Pool, sowie einem smart-home System
-**EN:** A Project for planing a house based on shipping containers with wintergarden and an pool, as well as smart-home system.
+**DE:** Ein Projekt zum planen eines Hauses auf Basis von Frachtcontainern, mit Wintergarten und Pool, sowie einem smart-home System<br>
+**EN:** A Project for planing a house based on shipping containers with wintergarden and an pool, as well as smart-home system.<p>
 ---
 
-## Ziel / Goal  
-**DE:**  
-Ein geplantes Haus mit Frachtcontainern als Basis (8x 20 Fuss) mit Wintergarten und Pool, sowie Smart-Home System und KI verwaltung.
-**EN:**  
-A planned house with shippuingcontainers as bas (8c 20feet) with wintergarden and pool, as well as smart-home system with ai control.
+## Ziel / Goal  <p>
+**DE:**  Ein geplantes Haus mit Frachtcontainern als Basis (8x 20 Fuss) mit Wintergarten und Pool, sowie Smart-Home System und KI verwaltung.<br>
+**EN:**  A planned house with shippuingcontainers as bas (8c 20feet) with wintergarden and pool, as well as smart-home system with ai control.<p>
 ---
 
-## Technologien / Technologies  
-- **Python**  
-- **Azure AI**
-- **Shipping Container**
-- **Solar Panels**
-- **Windcollectors**
-- **Rainwater-collectors**
-- **AI Controlled watering system**
-- **AI controlled security and entrance**
+## Technologien / Technologies  <p>
+- **Python**  <br>
+- **Azure AI**<br
+- **Shipping Container** <br>
+- **Solar Panels** <br>
+- **Windcollectors** <br>
+- **Rainwater-collectors** <br>
+- **AI Controlled watering system** <br>
+- **AI controlled security and entrance** <p>
 - 
 
 ---
 
-## Funktionen / Functions  
-**DE:**  
-- Erkennung von Menschen mit Befugnis und ohne
-- Regulierung der Temperatur und Luftfeuchtigkeit
-- Bewässerung von Pflangen mit gesammeltem Regenwasser
-- Regenwasseraufbereitung
-- Sammeln von Strom mit Solar und Windkraft
-- nutzung von Drohnen zur Überwachung und für evtl. benötigtes Außenlicht
-- Aufziehen von Pflanzen für besseren Sauerstoff und für Nahrung (Obst, Gemüse, Kräuter)
-- EMP Abschirmung
+## Funktionen / Functions  <p>
+**DE:**  <br>
+- Erkennung von Menschen mit Befugnis und ohne  <br>
+- Regulierung der Temperatur und Luftfeuchtigkeit  <br>
+- Bewässerung von Pflangen mit gesammeltem Regenwasser  <br>
+- Regenwasseraufbereitung  <br>
+- Sammeln von Strom mit Solar und Windkraft  <br>
+- nutzung von Drohnen zur Überwachung und für evtl. benötigtes Außenlicht  <br>
+- Aufziehen von Pflanzen für besseren Sauerstoff und für Nahrung (Obst, Gemüse, Kräuter)  <br>
+- EMP Abschirmung<p>
   
-**EN:**  
-- detection of people with and without permission
-- controlling of temperature and moisture
-- watering plants with rainwater
-- make rainwater reuseable / clean
-- collecting power by solar and wind-power
-- usage of drones for security and lightening when needed
-- growing plants for more oxygen and food like fruit, veggie, herbs
-- EMP deflection
+**EN:**    <br>
+- detection of people with and without permission  <br>
+- controlling of temperature and moisture  <br>
+- watering plants with rainwater  <br>
+- make rainwater reuseable / clean  <br>
+- collecting power by solar and wind-power  <br>
+- usage of drones for security and lightening when needed  <br>
+- growing plants for more oxygen and food like fruit, veggie, herbs  <br>
+- EMP deflection <p>
 
----
+---  <br>
 
-## Zukunftspläne / To-Do List  
-**DE:**  
+## Zukunftspläne / To-Do List    <br>
+**DE:**    <br>
 
 - 
-**EN:**  
+**EN:**    <p>
  
 
 ---
 
-## Mitmachen / Contributing  
+## Mitmachen / Contributing    <br>
 **DE:**  
-Beitragen zum Projekt ist willkommen! Sie können Pull Requests einreichen oder Issues öffnen.  
+Beitragen zum Projekt ist willkommen! Sie können Pull Requests einreichen oder Issues öffnen.    <br>
 
 **EN:**  
-Contributions are welcome! Feel free to submit pull requests or open issues.  
+Contributions are welcome! Feel free to submit pull requests or open issues.    <br>
 
 ---
 
