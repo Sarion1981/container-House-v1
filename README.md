@@ -31,6 +31,7 @@
 - Sammeln von Strom mit Solar und Windkraft  <br>
 - nutzung von Drohnen zur Überwachung und für evtl. benötigtes Außenlicht  <br>
 - Aufziehen von Pflanzen für besseren Sauerstoff und für Nahrung (Obst, Gemüse, Kräuter)  <br>
+- Passives Lüftungssystem<br>
 - EMP Abschirmung<p>
   
 **EN:**    <br>
@@ -41,6 +42,7 @@
 - collecting power by solar and wind-power  <br>
 - usage of drones for security and lightening when needed  <br>
 - growing plants for more oxygen and food like fruit, veggie, herbs  <br>
+- passive air-conditioning<br>
 - EMP deflection <p>
 
 ---  <br>
