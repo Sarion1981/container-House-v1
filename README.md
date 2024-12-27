@@ -5,8 +5,8 @@
 ---
 
 ## Ziel / Goal  <p>
-**DE:**  Ein geplantes Haus mit Frachtcontainern als Basis (8x 20 Fuss und 4x 10 Fuss) mit Wintergarten und Pool, sowie Smart-Home System und KI verwaltung.<br>
-**EN:**  A planned house with shippingcontainers as base (8x 20feet and 4x 10feet) with wintergarden and pool, as well as smart-home system with ai control.<p>
+**DE:**  Ein geplantes Haus mit Frachtcontainern als Basis (6x 20 Fuss und 2x 40 Fuss) mit Wintergarten und Pool, sowie Smart-Home System und KI verwaltung.<br>
+**EN:**  A planned house with shippingcontainers as base (6x 20feet and 2x 40feet) with wintergarden and pool, as well as smart-home system with ai control.<p>
 ---
 
 ## Technologien / Technologies  <p>
