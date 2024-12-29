@@ -19,7 +19,8 @@
 - **Regenwasser aufbereitungsystem** <br>
 - **KI-kontrolliertes smart-home system** <br>
 - **KI-kontrolliertes Sicherheits und Zugangs-system** <br>
-- **passives Kühl-system** <p>
+- **passives Kühl-system** <br>
+- **automatisch verschließbares Abwassersystem**<p>
 
 **EN:**<br>
 - **Python**<br>
@@ -30,7 +31,8 @@
 - **reinwater collecting and filtersystem**<br>
 - **AI-controlled smart-home-system**<br>
 - **AI-controlled Security and entrance-system**<br>
-- **passive cooling-system**<p>
+- **passive cooling-system**<br>
+< **automaticaly drainage-system**<p>
 
 ---
 
