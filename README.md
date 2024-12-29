@@ -32,7 +32,7 @@
 - **AI-controlled smart-home-system**<br>
 - **AI-controlled Security and entrance-system**<br>
 - **passive cooling-system**<br>
-< **automaticaly drainage-system**<p>
+- **automaticaly colsable drainage-system**<p>
 
 ---
 
