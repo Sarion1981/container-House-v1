@@ -17,7 +17,7 @@
 - **Windcollectors** <br>
 - **Rainwater-collectors** <br>
 - **AI Controlled watering system** <br>
-- **AI controlled security and entrance** <p>
+- **AI controlled security and entrance** <br>
 - **passive cooling system** <p>
 
 ---
