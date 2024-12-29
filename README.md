@@ -10,15 +10,27 @@
 ---
 
 ## Technologien / Technologies  <p>
+**DE:**<br>
 - **Python**  <br>
-- **Azure AI**<br>
-- **Shipping Container** <br>
-- **Solar Panels** <br>
-- **Windcollectors** <br>
-- **Rainwater-collectors** <br>
-- **AI Controlled watering system** <br>
-- **AI controlled security and entrance** <br>
-- **passive cooling system** <p>
+- **Azure kI**<br>
+- **Fracht- Container** <br>
+- **Solar Anlage** <br>
+- **Windturbinen** <br>
+- **Regenwasser aufbereitungsystem** <br>
+- **KI-kontrolliertes smart-home system** <br>
+- **KI-kontrolliertes Sicherheits und Zugangs-system** <br>
+- **passives Kühl-system** <p>
+
+**EN:**<br>
+-**Python**<br>
+-**Azure-AI**<br>
+-**shipping-containers**<br>
+-**solar-panellels**<br>
+-**windcathers**<br>
+-**reinwater collecting and filtersystem**<br>
+-**AI-controlled smart-home-system**<br>
+-**AI-controlled Security and entrance-system**<br>
+-**passive cooling-system**<p>
 
 ---
 
