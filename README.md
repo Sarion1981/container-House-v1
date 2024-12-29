@@ -22,15 +22,15 @@
 - **passives Kühl-system** <p>
 
 **EN:**<br>
--**Python**<br>
--**Azure-AI**<br>
--**shipping-containers**<br>
--**solar-panellels**<br>
--**windcathers**<br>
--**reinwater collecting and filtersystem**<br>
--**AI-controlled smart-home-system**<br>
--**AI-controlled Security and entrance-system**<br>
--**passive cooling-system**<p>
+- **Python**<br>
+- **Azure-AI**<br>
+- **shipping-containers**<br>
+- **solar-panellels**<br>
+- **windcathers**<br>
+- **reinwater collecting and filtersystem**<br>
+- **AI-controlled smart-home-system**<br>
+- **AI-controlled Security and entrance-system**<br>
+- **passive cooling-system**<p>
 
 ---
 
@@ -62,7 +62,6 @@
 ## Zukunftspläne / To-Do List    <br>
 **DE:**    <br>
 
-- 
 **EN:**    <p>
  
 
